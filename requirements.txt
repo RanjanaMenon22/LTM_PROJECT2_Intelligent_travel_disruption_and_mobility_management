@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+fastapi
+uvicorn
+streamlit
+pydantic
+python-dotenv
+sentence-transformers
+faiss-cpu
+psycopg2-binary
+sqlalchemy
+ollama
